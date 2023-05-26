@@ -1,0 +1,9 @@
+/bin/
+/doc/
+/build/classes/
+/target/
+/.settings/
+/.classpath
+/.project
+/ApacheConfParser.iml
+/.idea
